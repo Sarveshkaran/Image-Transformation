@@ -29,8 +29,8 @@ Crop the image using cropped_img=input_img[20:150,60:230]
 
 ## Program:
 ```python
-Developed By:Poojithasetty
-Register Number:212221240050
+Developed By: SARVESHKARAN V K
+Register Number:212221230089
 
 import numpy as np
 import cv2
